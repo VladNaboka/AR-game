@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Skeleton-removebg-preview" size="1.000000 0.750433" />
+    <ImageTarget name="Brain" size="1.000000 0.750000" />
+    <ImageTarget name="Stomach2" size="1.000000 0.750000" />
+    <ImageTarget name="Skull" size="1.000000 0.750000" />
+    <ImageTarget name="Lungs2" size="1.000000 0.750000" />
+    <ImageTarget name="Liver" size="1.000000 0.750000" />
+    <ImageTarget name="Intestine2" size="1.000000 0.750000" />
+    <ImageTarget name="Heart2" size="1.000000 0.750000" />
+    <ImageTarget name="Acute-Pancreatitis" size="1.000000 0.600000" />
+  </Tracking>
+</QCARConfig>
